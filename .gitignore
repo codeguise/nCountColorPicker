@@ -3,3 +3,10 @@
 ################################################################################
 
 /nCountColorPicker.Web/.vs/nCountColorPicker.Web
+/nCountColorPicker.Web/obj
+/nCountColorPicker.Web/App_Data/TEMP
+/nCountColorPicker.Web/App_Data/packages
+/nCountColorPicker.Web/App_Data/Models
+/nCountColorPicker.Web/App_Data/Logs
+/nCountColorPicker.Web/bin
+/nCountColorPicker.Web/Umbraco
