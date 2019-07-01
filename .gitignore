@@ -10,3 +10,5 @@
 /nCountColorPicker.Web/App_Data/Logs
 /nCountColorPicker.Web/bin
 /nCountColorPicker.Web/Umbraco
+/nCountColorPicker/.vs/nCountColorPicker/v16
+/nCountColorPicker/obj/Debug
